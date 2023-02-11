@@ -37,7 +37,7 @@ CREATE TABLE `hospital` (
 
 LOCK TABLES `hospital` WRITE;
 /*!40000 ALTER TABLE `hospital` DISABLE KEYS */;
-INSERT INTO `hospital` VALUES (7001,5,24,'Apollo Hospitals'),(7002,5,20,'Jawaharlal Nehru Medical College and Hospital'),(7003,5,23,'Indira Gandhi Institute of Medical Sciences (IGIMS)'),(7004,5,24,'AIIMS - All India Institute Of Medical Science');
+INSERT INTO `hospital` VALUES (7001,12,52,'Apollo Hospitals'),(7002,14,69,'Jawaharlal Nehru Medical College and Hospital'),(7003,13,62,'Indira Gandhi Institute of Medical Sciences (IGIMS)'),(7004,11,57,'AIIMS - All India Institute Of Medical Science');
 /*!40000 ALTER TABLE `hospital` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
