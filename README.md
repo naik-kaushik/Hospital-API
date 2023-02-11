@@ -12,10 +12,10 @@
 
 -   **Patients Details Submit**
     -   This is a POST method that needs parameters to be passed in the body section.
-    -   CALL-URL : [https://hospital-api-p37y.onrender.com/submit](https://hospital-api-p37y.onrender.com/submit)
+    -   CALL-URL : [https://hospital-api-toak.onrender.com/submit](https://hospital-api-toak.onrender.com/submit)
 -   **Fetch Hospital Details:**
     -   This is a GET method that needs HospitalID as a parameter which is passed in the URL itself.
-    -   CALL-URL : [https://hospital-api-p37y.onrender.com/hospitals/7001](https://hospital-api-p37y.onrender.com/hospitals/7001)
+    -   CALL-URL : [https://hospital-api-toak.onrender.com/hospitals/7001](https://hospital-api-toak.onrender.com/hospitals/7001)
     -   **7001** is the HospitalID.
 
 
