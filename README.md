@@ -22,3 +22,6 @@
 #### Postman Collection Link:
 
 [Click here to visit Postman Collection](https://www.postman.com/lunar-module-participant-29781081/workspace/hospital-api-ws/collection/22817922-42ea4b20-bb2e-4621-b8ad-f3c443d7ca22?action=share&creator=22817922)
+
+
+#### API Home Page Link: [https://hospital-api-toak.onrender.com/](https://hospital-api-toak.onrender.com/)
